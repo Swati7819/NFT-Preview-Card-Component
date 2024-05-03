@@ -27,7 +27,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Swati7819/nft-preview-card.git
+git clone https://github.com/Swati7819/nft-preview-card-component.git
 ```
 
 2. Open the project folder in your code editor.
